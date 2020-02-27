@@ -17,7 +17,7 @@ params:
     events.
   eventsPerPage: 10
   groups:
-    - Test;Créateur
+    - Test;Createur
   logo: /images/clearstatus.svg
   meta_description: >-
     This status page provides updated information about our systems normal
